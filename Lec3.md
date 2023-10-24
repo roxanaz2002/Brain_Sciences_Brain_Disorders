@@ -1,6 +1,10 @@
-# 
-## 
-### Brain Imaging Computing
+# WEEK 4  
+## Content
+- 研究人类大脑结构的sMRI/及其基本分析技术
+- 研究人类大脑功能的is-AMR/及其基本分析技术
+- 研究人类大脑白质结构的MRI及其基本分析技术
+- 分子成像 (PET、MRS)、灌注成像（ASL)、定量成像 (gMRl,QSM)
+## Brain Imaging Computing
 - Structual (*T1w*)
   - Voxel Based Morphometry(VBM)(unit:voxel 体素)
     * tool: CAT, FSL 
@@ -23,15 +27,15 @@
   - CF: functional ~ (co-activity)
     - task 
     - resting
-### Structure 脑图谱
+## Structure 脑图谱
   - 白色：头皮：brain extraction(剥头皮)
     - 配准
     - 连通域
   - 黑色：颅骨
-#### 标准空间
+### 标准空间
 * 模版：standard template 
 * MNI：Montreal Neural Institute
-### fMRI 
+## fMRI 
 - 4D->3D
 - 1995 Bharat Biswal
   - disease may impact the connection of these areas
@@ -46,14 +50,20 @@
   - mathematically easy to solve but does work on neuroscience(play the competition ON TIME! the prospect of the future matters look for new trend)
 - FREEsurfer HCP Harvard 
 - grab the demand of DOCTORS: they cannot programming...matlab
-#### Rise a question
-##### Cocktail party Problem
+### Rise a question
+#### Cocktail party Problem
 - signal processing ICA
 - 三个话筒解混三种声音 decomposition
 - samples
 - 静息态fMRI功能连接研究ICA（until 2010）
-##### ICA application
+#### ICA application
 - resting state function network
 - project: GUI design based on Windows(4D fMRI subject 1-100...)
-- 
-- 
+### 婴儿脑图谱的分析(4-D data)
+#### 分割 
+- T1w T2W 
+- correlation matrix
+### Head motion distortion correction 头动校正
+### EPI to Anat Image T1w,T2w
+- result: well alighed images from different atlas
+- Extensive preprocessing (denoising)
