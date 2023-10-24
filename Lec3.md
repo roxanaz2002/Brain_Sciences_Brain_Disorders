@@ -75,5 +75,8 @@
 - tractography（估计脑纤维）: 研究椭球长轴延伸方向(shade/color code: 蓝：上下，绿：前后，红色：左右)
 - Brainconnectomics
 #### Structure conncetivity: binary...
+### Limitations of DTI
+- tensor 六个自由度 张量分析，维度升高
+- SMSI：弥散MRI 数据分析
+- 分析流水线，质量控制
 
-- 
