@@ -5,10 +5,9 @@
   - Voxel Based Morphometry(VBM)(unit:voxel 体素)
     * tool: CAT, FSL 
     * tissue type: 灰质(G)，白质(W)，脑脊液(CSF); G+W+CSF=1
-   - intensity -(probability)-> content -> density,volumn
-    * 标准脑->segmentation->皮层->geometric info-> 配准
-    * 硬分割
-   - registration（对齐）设定标准大脑：标准空间，个体空间
+    * intensity -(probability)-> content -> density,volumn
+    * 标准脑->segmentation(硬分割)->皮层reconstruction(重建)->geometric info-> 配准 
+    * registration（对齐）设定标准大脑：标准空间，个体空间
   - Surface Based analysis(unit: vertex)
     - 3D-vertex,surface
     - tool: freesurfer
