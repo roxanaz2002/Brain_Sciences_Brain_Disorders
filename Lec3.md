@@ -73,7 +73,7 @@
 - 水分子 -(limited Brown motion)- H原子
 - Anisotrophy: 判断水分子运动方式(球状：各向同性/椭球：六个变量) fiber tracking（fiber ）
 - tractography（估计脑纤维）: 研究椭球长轴延伸方向(shade/color code: 蓝：上下，绿：前后，红色：左右)
-- Brainconnection
+- Brainconnectomics
 #### Structure conncetivity: binary...
 
 - 
