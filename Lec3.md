@@ -23,7 +23,7 @@
   - CF: functional ~ (co-activity)
     - task 
     - resting
-### 脑图谱
+### Structure 脑图谱
   - 白色：头皮：brain extraction(剥头皮)
     - 配准
     - 连通域
@@ -31,4 +31,29 @@
 #### 标准空间
 * 模版：standard template 
 * MNI：Montreal Neural Institute
-* 
+### fMRI 
+- 4D->3D
+- 1995 Bharat Biswal
+  - disease may impact the connection of these areas
+  - noise clearing: find the correlation and anti-correlation in different brain area
+- PNAS Fox et al,self reference
+- 2004: brain a complex network/structure network
+- NETWORK analysis
+  - graph theory
+  - disease -(balance broken)> network weakened/enhanced
+  - focus -> 2006 function connection varies instantly/ construct connection hardly varies in moments
+  - follow the current trend
+  - mathematically easy to solve but does work on neuroscience(play the competition ON TIME! the prospect of the future matters look for new trend)
+- FREEsurfer HCP Harvard 
+- grab the demand of DOCTORS: they cannot programming...matlab
+#### Rise a question
+##### Cocktail party Problem
+- signal processing ICA
+- 三个话筒解混三种声音 decomposition
+- samples
+- 静息态fMRI功能连接研究ICA（until 2010）
+##### ICA application
+- resting state function network
+- project: GUI design based on Windows(4D fMRI subject 1-100...)
+- 
+- 
