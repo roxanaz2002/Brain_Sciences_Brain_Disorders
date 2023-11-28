@@ -3,4 +3,12 @@
 - continuous into adulthood
 - sustaining attention, hyperactivity, impulsive behaviour
 - more often in males
-## 临床诊断
+- poor performance in school
+- altisim
+## Schizophrenia 
+- 精神分裂
+- interpret reality abnormal
+- life long treatment
+- no sure way to prevent
+## ASD 阿斯伯格
+- 
