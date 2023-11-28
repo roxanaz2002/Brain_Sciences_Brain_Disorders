@@ -1,4 +1,4 @@
-# 6a. neuro disease
+# 5a. Neuro Disease/Stroke
 ## 重度抑郁/难治性 depression 
 ## 卒中 Stroke
 - 最容易发病的神经疾病：终身脑卒中患病风险居世界首位
