@@ -80,3 +80,15 @@
 - SMSI：弥散MRI 数据分析
 - 分析流水线，质量控制
 
+### Differences between T1, T2, T2Flair
+1. **T1 (Longitudinal Relaxation Time):**
+   - **Definition:** T1 is the time it takes for the longitudinal magnetization (Mz) to recover to 63% of its maximum value after it has been disturbed by a radiofrequency (RF) pulse.
+   - **Indication:** T1-weighted images provide good contrast between different types of tissues. Tissues with short T1 times appear bright, while those with long T1 times appear dark.
+
+2. **T2 (Transverse Relaxation Time):**
+   - **Definition:** T2 is the time it takes for the transverse magnetization (Mxy) to decay to 37% of its maximum value after an RF pulse.
+   - **Indication:** T2-weighted images are useful for highlighting differences in water content and detecting pathological changes in tissues. Fluid-filled structures and edema, for example, appear bright on T2-weighted images.
+
+3. **T2* (Transverse Relaxation Time Star):**
+   - **Definition:** T2* is similar to T2 but is more sensitive to magnetic field inhomogeneities caused by factors like susceptibility differences between tissues.
+   - **Indication:** T2* is often used in functional MRI (fMRI) and susceptibility-weighted imaging (SWI) to enhance contrast and provide information about blood oxygenation levels. It is particularly useful for imaging veins and detecting areas of blood products.
